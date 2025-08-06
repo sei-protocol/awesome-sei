@@ -19,7 +19,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 
 *Decentralized Finance protocols and applications*
 
-<!-- Add projects here -->
+- [Carbon DeFi](https://www.carbondefi.xyz) - Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.
 
 ## Gaming
 
