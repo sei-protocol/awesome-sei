@@ -25,7 +25,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 
 *Gaming, and entertainment projects*
 
-<!-- Add projects here -->
+- [GigaDong](https://gigadong.com) - GigaDong is the ultimate mining simulation game built on SEI. Where Your Size Earns.
 
 ## Infrastructure & Tools
 
