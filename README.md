@@ -15,6 +15,10 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 - [Educational Resources](#educational-resources)
 - [Community Projects](#community-projects)
 
+## Analytics & Explorers
+
+- [Seitrace](https://seitrace.com) - Seitrace: The ultimate block explorer for Sei. Track transactions, analyze data, and master the network.
+
 ## DeFi
 
 *Decentralized Finance protocols and applications*
