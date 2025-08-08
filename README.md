@@ -30,6 +30,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 *Gaming, and entertainment projects*
 
 - [GigaDong](https://gigadong.com) - GigaDong is the ultimate mining simulation game built on SEI. Where Your Size Earns.
+- [SunnySide Acres](https://game.thesunnyside.cc/) - Sunny Side Acres is the fully on-chain RPG farming game built on Sei. Grow crops, tame beasts and battles foes in the opening pixelated world.
 
 ## Infrastructure & Tools
 
