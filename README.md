@@ -37,7 +37,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 
 *Developer tools, APIs, and infrastructure projects*
 
-<!-- Add projects here -->
+- [Seitrace MCP](https://github.com/Seitrace/seitrace-mcp) - A Model Context Protocol (MCP) server that exposes the Sei blockchain data as model-friendly tools.
 
 ## Wallets
 
