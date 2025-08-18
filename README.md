@@ -21,39 +21,42 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 
 ## DeFi
 
-*Decentralized Finance protocols and applications*
+_Decentralized Finance protocols and applications_
 
 - [Carbon DeFi](https://www.carbondefi.xyz) - Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.
 - [Brrr](https://brrr.fun) - Brrr - where Sei Trading begins. Brrr is the only trading terminal you'll ever need for Sei Network. Launch, bridge, analyze, and trade - all in one powerful interface.
 
 ## Gaming
 
-*Gaming, and entertainment projects*
+_Gaming, and entertainment projects_
 
 - [GigaDong](https://gigadong.com) - GigaDong is the ultimate mining simulation game built on SEI. Where Your Size Earns.
 - [SunnySide Acres](https://game.thesunnyside.cc/) - Sunny Side Acres is the fully on-chain RPG farming game built on Sei. Grow crops, tame beasts and battles foes in the opening pixelated world.
+- [Hot Spring ⚡︎ The Cozy World](https://link3.to/cozy_world) - Enabling emotional IP gaming creation through simulation, creativity, and【AI】.
+- [Archer Hunter](https://link3.to/archerhunter_hq) - 1st action-packed RPG available for iOS and Android 🏹 2M Installs.
+- [Kawaii Puzzle](https://t.co/YaLQxHx918) - 🧸 A dreamy casual puzzle x home decorating sim game - soft, sweet, on Sei Network. 7M Installs 😈.
 
 ## Infrastructure & Tools
 
-*Developer tools, APIs, and infrastructure projects*
+_Developer tools, APIs, and infrastructure projects_
 
 - [Seitrace MCP](https://github.com/Seitrace/seitrace-mcp) - The essential MCP (Model Context Protocol) server for the Sei blockchain.
 
 ## Wallets
 
-*Wallet applications and interfaces for SEI*
+_Wallet applications and interfaces for SEI_
 
 <!-- Add projects here -->
 
 ## Educational Resources
 
-*Tutorials, guides, tooling and learning materials*
+_Tutorials, guides, tooling and learning materials_
 
 <!-- Add projects here -->
 
 ## Community Projects
 
-*Community-driven initiatives and tools*
+_Community-driven initiatives and tools_
 
 <!-- Add projects here -->
 
@@ -75,6 +78,7 @@ We welcome contributions! Here's how to add a project:
 ### Project Guidelines
 
 **What to include:**
+
 - ✅ Projects built on or for the SEI blockchain
 - ✅ Tools that support the SEI ecosystem
 - ✅ Educational content about SEI
@@ -82,12 +86,14 @@ We welcome contributions! Here's how to add a project:
 - ✅ Both live projects and valuable resources
 
 **Requirements:**
+
 - Project must be related to the SEI ecosystem
 - Include a brief, clear description (1-2 sentences max)
 - Working link to project homepage, app, or repository
 - Project should be functional or actively developed
 
 **Format example:**
+
 ```markdown
 - [SEI chain](https://github.com/sei-protocol/sei-chain) - Sei is the first parallelized EVM blockchain delivering unmatched scalability and speed.
 ```
