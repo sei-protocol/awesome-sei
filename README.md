@@ -7,7 +7,8 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 ## Contents
 
 - [DeFi](#defi)
-- [NFTs & Gaming](#nfts--gaming)
+- [Gaming](#gaming)
+- [NFTs & Marketplaces](#nfts--marketplaces)
 - [Infrastructure & Tools](#infrastructure--tools)
 - [Wallets](#wallets)
 - [Bridges & Cross-Chain](#bridges--cross-chain)
@@ -47,6 +48,8 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 *Wallet applications and interfaces for SEI*
 
 <!-- Add projects here -->
+
+## NFTs & Marketplaces
 
 ## Educational Resources
 
