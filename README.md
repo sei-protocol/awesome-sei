@@ -32,6 +32,9 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 
 - [GigaDong](https://gigadong.com) - GigaDong is the ultimate mining simulation game built on SEI. Where Your Size Earns.
 - [SunnySide Acres](https://game.thesunnyside.cc/) - Sunny Side Acres is the fully on-chain RPG farming game built on Sei. Grow crops, tame beasts and battles foes in the opening pixelated world.
+- [Hot Spring ⚡︎ The Cozy World](https://link3.to/cozy_world) - Enabling emotional IP gaming creation through simulation, creativity, and【AI】.
+- [Archer Hunter](https://link3.to/archerhunter_hq) - 1st action-packed RPG available for iOS and Android 🏹 2M Installs.
+- [Kawaii Puzzle](https://t.co/YaLQxHx918) - 🧸 A dreamy casual puzzle x home decorating sim game - soft, sweet, on Sei Network. 7M Installs 😈.
 
 ## Infrastructure & Tools
 
