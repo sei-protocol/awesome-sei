@@ -53,6 +53,8 @@ _Wallet applications and interfaces for SEI_
 
 _NFT projects and marketplaces_
 
+- [Magic Eden](https://magiceden.io) - Magic Eden is the best place to trade all assets onchain
+
 <!-- Add projects here -->
 
 ## Bridges & Cross-Chain
