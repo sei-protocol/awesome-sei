@@ -36,6 +36,7 @@ _Gaming, and entertainment projects_
 - [Hot Spring ⚡︎ The Cozy World](https://link3.to/cozy_world) - Enabling emotional IP gaming creation through simulation, creativity, and【AI】.
 - [Archer Hunter](https://link3.to/archerhunter_hq) - 1st action-packed RPG available for iOS and Android 🏹 2M Installs.
 - [Kawaii Puzzle](https://t.co/YaLQxHx918) - 🧸 A dreamy casual puzzle x home decorating sim game - soft, sweet, on Sei Network. 7M Installs 😈.
+- [MetaArena](https://metaarena.org/) - MetaArena is a Web3-focused AI game publishing and creation platform.
 
 ## Infrastructure & Tools
 
