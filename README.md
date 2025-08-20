@@ -26,6 +26,7 @@ _Decentralized Finance protocols and applications_
 
 - [Carbon DeFi](https://www.carbondefi.xyz) - Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.
 - [Brrr](https://brrr.fun) - Brrr - where Sei Trading begins. Brrr is the only trading terminal you'll ever need for Sei Network. Launch, bridge, analyze, and trade - all in one powerful interface.
+- [Dragonswap](https://dragonswap.app) - DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics. 
 
 ## Gaming
 
