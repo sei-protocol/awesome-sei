@@ -44,6 +44,7 @@ _Gaming, and entertainment projects_
 - [Majyo Treasures](https://www.mokoko.vip/) - An idle RPG mini-game developed by MokokoStudio and supported by SeiNetwork.
 - [Operation Safe Place Defense](https://home.ospgame.com/) - Hybrid tower defense meets third-person shooter built on SEI. NFT tower cards and real-world child safety impact through "Every Child Safe" initiative.
 - [Dawnshard](https://playdawnshard.com/) - The competitive fantasy card game where each deck is unique in the world. With AI-generated decks, every match becomes a new adventure! Unleash your creativity, test your skill, and rise as the greatest Seeker 🔥
+- [Infinity Games](https://infinitygames.tech/) - Web3 ecosystem featuring the Interoperable Asset Store for shared assets across titles, the Prometheus NFT Marketplace for trading, and the PvP autochess game Infinity Heroes, which showcases connected gameplay.
 
 ## Infrastructure & Tools
 
