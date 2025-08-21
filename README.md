@@ -43,6 +43,7 @@ _Gaming, and entertainment projects_
 - [DonkeyHunt](https://www.mokoko.vip/) - A game that combines card collecting, treasure hunting, and leveling! Developed by MokokoStudio and powered by SeiNetwork.
 - [Majyo Treasures](https://www.mokoko.vip/) - An idle RPG mini-game developed by MokokoStudio and supported by SeiNetwork.
 - [Operation Safe Place Defense](https://home.ospgame.com/) - Hybrid tower defense meets third-person shooter built on SEI. NFT tower cards and real-world child safety impact through "Every Child Safe" initiative.
+- [Dawnshard](https://playdawnshard.com/) - The competitive fantasy card game where each deck is unique in the world. With AI-generated decks, every match becomes a new adventure! Unleash your creativity, test your skill, and rise as the greatest Seeker 🔥
 
 ## Infrastructure & Tools
 
