@@ -26,7 +26,7 @@ _Decentralized Finance protocols and applications_
 
 - [Carbon DeFi](https://www.carbondefi.xyz) - Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.
 - [Brrr](https://brrr.fun) - Brrr - where Sei Trading begins. Brrr is the only trading terminal you'll ever need for Sei Network. Launch, bridge, analyze, and trade - all in one powerful interface.
-- [Dragonswap](https://dragonswap.app) - DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics. 
+- [Dragonswap](https://dragonswap.app) - DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics.
 
 ## Gaming
 
@@ -38,6 +38,10 @@ _Gaming, and entertainment projects_
 - [Archer Hunter](https://link3.to/archerhunter_hq) - 1st action-packed RPG available for iOS and Android 🏹 2M Installs.
 - [Kawaii Puzzle](https://t.co/YaLQxHx918) - 🧸 A dreamy casual puzzle x home decorating sim game - soft, sweet, on Sei Network. 7M Installs 😈.
 - [MetaArena](https://metaarena.org/) - MetaArena is a Web3-focused AI game publishing and creation platform.
+- [Candy Dreams](https://www.mokoko.vip/) - The first match-3 game developed by MokokoStudio and powered by SeiNetwork!
+- [Wild West Shooting](https://www.mokoko.vip/) - A thrilling shooter developed by MokokoStudio and supported by SeiNetwork!
+- [DonkeyHunt](https://www.mokoko.vip/) - A game that combines card collecting, treasure hunting, and leveling! Developed by MokokoStudio and powered by SeiNetwork.
+- [Majyo Treasures](https://www.mokoko.vip/) - An idle RPG mini-game developed by MokokoStudio and supported by SeiNetwork.
 
 ## Infrastructure & Tools
 
