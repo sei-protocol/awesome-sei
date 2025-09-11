@@ -13,6 +13,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 - [Wallets](#wallets)
 - [Bridges & Cross-Chain](#bridges--cross-chain)
 - [Analytics & Explorers](#analytics--explorers)
+- [AI tools & Infrastructure](#ai--tools--infrastructure)
 - [Educational Resources](#educational-resources)
 - [Community Projects](#community-projects)
 
@@ -69,6 +70,9 @@ _NFT projects and marketplaces_
 ## Bridges & Cross-Chain
 
 - [Hyperlane](https://hyperlane.xyz/) - Hyperlane is a permissionless interoperability protocol for cross-chain communication. It enables message passing and asset transfers across different chains without relying on centralized intermediaries or requiring any permissions.
+
+## AI tools & Infrastructure
+- [Sei Agent Kit](https://github.com/CambrianAgents/sei-agent-kit) - The Sei Agent Kit built by Cambrian is the first AI infrastructure for Sei. It allows to easily build AI Agents that can not only chat on social media, but also take actions on the Sei blockchain like swapping, staking, lending, borrowing, trading and more.
 
 ## Educational Resources
 
