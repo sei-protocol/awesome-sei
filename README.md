@@ -13,7 +13,7 @@ Sei is the first parallelized EVM blockchain delivering unmatched scalability an
 - [Wallets](#wallets)
 - [Bridges & Cross-Chain](#bridges--cross-chain)
 - [Analytics & Explorers](#analytics--explorers)
-- [AI tools & Infrastructure](#ai--tools--infrastructure)
+- [AI tools & Infrastructure](#ai-tools--infrastructure)
 - [Educational Resources](#educational-resources)
 - [Community Projects](#community-projects)
 
