@@ -1,0 +1,16 @@
+{
+  "name": "App Test for Prod",
+  "description": "App Test for Prod",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "Trading": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+    "Swap": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074D4"
+  },
+  "links": {
+    "project": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2",
+    "docs": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2",
+    "email": "shreyas@seifdn.org"
+  }
+}
