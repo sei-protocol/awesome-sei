@@ -1,0 +1,19 @@
+{
+  "name": "Shreyas Test github parsing",
+  "description": "fwugkj f fewfew fewfiuewfewf ewfew fewkj",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "Contract1": "Sei",
+    "Contract2": "TradeRouter",
+    "Contract3": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+    "Contract4": "Sei",
+    "Contract5": "Marketplace",
+    "Contract6": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074D4"
+  },
+  "links": {
+    "project": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2",
+    "docs": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2"
+  }
+}
