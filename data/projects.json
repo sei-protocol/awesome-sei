@@ -1,0 +1,16 @@
+{
+  "name": "Shreyas Test for github Changed contract address parsing",
+  "description": "Shreyas Test for github Changed contract address parsing",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "TradingRouter": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+    "Marketplace": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074D4"
+  },
+  "links": {
+    "project": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2",
+    "docs": "https://forms.monday.com/forms/b6816df94378117836cd0d4046d7213b?r=apse2",
+    "email": "shreyas@seifdn.org"
+  }
+}
