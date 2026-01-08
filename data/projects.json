@@ -1,0 +1,21 @@
+{
+  "name": "Project Name",
+  "description": "project desc",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "SwapRouter02": "0x11da6463d6cb5a03411dbf5ab6f6bc3997ac7428"
+  },
+  "links": {
+    "project": "https://websitelink.com",
+    "twitter": "https://x.com/project",
+    "github": "https://github.com/project",
+    "docs": "https://docslink.com",
+    "communityDiscord": "https://discord.com/communitydiscord",
+    "communityTelegram": "https://t.me/projectcommunity",
+    "email": "shreyas@seifdn.org",
+    "coingecko": "coingeckoID",
+    "telegram": "https://t.me/telegram"
+  }
+}
