@@ -1,0 +1,15 @@
+{
+  "name": "Project Name",
+  "description": "Project Desc",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "SwapRouter02": "0x11da6463d6cb5a03411dbf5ab6f6bc3997ac7428"
+  },
+  "links": {
+    "project": "https://websitelink.com",
+    "docs": "https://docslink.com",
+    "email": "shreyas@seifdn.org"
+  }
+}
