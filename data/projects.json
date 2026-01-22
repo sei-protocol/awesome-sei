@@ -1,0 +1,14 @@
+{
+  "name": "Nitro Machines",
+  "description": "Multiplayer PvP PvE Co-op arcade racer",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "links": {
+    "project": "https://www.nitromachines.com",
+    "twitter": "https://x.com/nitromachines",
+    "github": "https://github.com/tim0ps/slime-nitro-machine",
+    "docs": "https://www.nitromachines.com",
+    "email": "team@nitromachines.com"
+  }
+}
