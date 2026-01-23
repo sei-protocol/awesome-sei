@@ -1,4 +1,4 @@
-# Awesome SEI 🚀
+# Awesome SEI
 
 A curated list of awesome projects, tools, and resources in the SEI ecosystem.
 
