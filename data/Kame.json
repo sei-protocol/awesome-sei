@@ -1,0 +1,10 @@
+{
+  "name": "Kame",
+  "description": "Kame Aggregator is a DeFi Protocol that aggregates liquidity sources into one comprehensive interface and API.",
+  "categories": ["DeFi::Protocols"],
+  "links": {
+    "project": "https://kame.ag/leaderboard",
+    "twitter": "https://x.com/kame_agg",
+    "docs": "https://docs.kame.ag/"
+  }
+}

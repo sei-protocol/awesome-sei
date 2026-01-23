@@ -1,0 +1,13 @@
+{
+  "name": "Donkeswap",
+  "description": "Donkeswap is a next-generation decentralized exchange (DEX) designed for the memecoin market. Built with a novel Automated Market Maker (AMM) algorithm, it delivers you superior liquidity, lower slippage, and the trading speed meme traders crave.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "DonkeV2Factory": "0x4b4746216214f9e972c5d35d3fe88e6ec4c28a6b"
+  },
+  "links": {
+    "project": "https://donkeswap.com/",
+    "twitter": "https://x.com/donkeswap",
+    "github": "https://github.com/donkelabs"
+  }
+}

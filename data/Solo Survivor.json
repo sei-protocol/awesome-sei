@@ -1,0 +1,12 @@
+{
+  "name": "Bike Master Challenge",
+  "description": " Bike Master Challenge is a 3D mobile casual obstacle-run game where you control a fearless rider across dynamic maps filled with traps, bridges, and crazy challenges. Simple to play, hard to master — your goal is to balance, dodge, and reach the finish line in style.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "BikeMasterChallenge": "0xCd2152e728Ecc1A10C27e59674E02C2184FB85a2"
+  },
+  "links": {
+    "project": "https://bikemaster.io",
+    "twitter": "https://x.com/ChallengeBike"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pixudi",
+  "description": "Pixudi is an RPG board game built on blockchain technology. Choose a board, invite opponents and roll the dice! Collect more treasures than others, strategically choose items to use or which way to go, play mini games to gain advantage and duel with other players!",
+  "categories": ["Gaming::Games"],
+  "links": {
+    "project": "https://game.pixudi.com/",
+    "twitter": "https://x.com/thepixudi",
+    "github": "https://github.com/kapcrew"
+  }
+}

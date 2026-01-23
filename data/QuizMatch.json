@@ -1,0 +1,12 @@
+{
+  "name": "Quizmatch",
+  "description": "Quizmatch is a blockchain-powered tournament platform, gamified with GenAI quizzes, social gameplay featuring leaderboards and rewards.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Quizmatch": "0xD844298D9d42d652E263e2b4c750E5578D8b1E7a"
+  },
+  "links": {
+    "project": "https://play.quizmatch.games/",
+    "twitter": "https://x.com/PlayQuizmatch"
+  }
+}

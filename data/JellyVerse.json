@@ -1,0 +1,14 @@
+{
+  "name": "JellyVerse",
+  "description": "Jellyverse is an entire universe built and governed by its community, the Jellyverse DAO. Jellyverse aims to pave the way for the next generation of DeFi, often referred to as DeFi 3.0",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "Vault": "0xfb43069f6d0473b85686a85f4ce4fc1fd8f00875"
+  },
+  "links": {
+    "project": "https://jellyverse.org",
+    "twitter": "https://x.com/jlyvrs",
+    "github": "https://github.com/Jelly-Labs",
+    "docs": "https://docs.jellyverse.org/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "OKX",
+  "description": "OKX DEX Swap is a decentralized exchange (DEX) aggregator that allows you to trade crypto seamlessly across multiple blockchains.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "DexRouter": "0x411d2C093e4c2e69Bf0D8E94be1bF13DaDD879c6"
+  },
+  "links": {
+    "project": "https://web3.okx.com/dex-swap",
+    "twitter": "https://x.com/OKX",
+    "github": "https://github.com/okx",
+    "docs": "https://web3.okx.com/build/dev-docs/"
+  }
+}

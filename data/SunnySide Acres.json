@@ -1,0 +1,11 @@
+{
+  "name": "SunnySide Acres",
+  "description": "Sunny Side Acres is the fully on-chain RPG farming game built on Sei. Grow crops, tame beasts and battles foes in the opening pixelated world.",
+  "categories": ["Gaming::Games"],
+  "addresses": ["0xA3FEae683E706d1C019bAd2f783d394A18Fb6704"],
+  "links": {
+    "project": "https://game.thesunnyside.cc/",
+    "twitter": "https://x.com/sunnyside_vil",
+    "github": "https://github.com/Sunnyside-Acres"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Infinity Games",
+  "description": "Web3 ecosystem featuring the Interoperable Asset Store for shared assets across titles, the Prometheus NFT Marketplace for trading, and the PvP autochess game Infinity Heroes, which showcases connected gameplay.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "DInfinity Heroes": "0x0501a7aF3A1c447c411A71f292C77be8812F6A68"
+  },
+  "links": {
+    "project": "https://infinitygames.tech/",
+    "twitter": "https://x.com/infygamestech"
+  }
+}

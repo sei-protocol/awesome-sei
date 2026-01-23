@@ -1,0 +1,12 @@
+{
+  "name": "My Guardian Base",
+  "description": "Start from scratch and rise as the ultimate military commander. Build and upgrade your base, recruit elite troops, train them for battle, and defend against enemy forces. Expand your territory, unlock powerful upgrades, and prove your strength in global battles.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "GuardianBase": "0x9Df93B99f8B62e3b0663796983D9a93e66C5ABA6"
+  },
+  "links": {
+    "project": "https://myguardianbase.com",
+    "twitter": "https://x.com/MyGuardianBase/"
+  }
+}

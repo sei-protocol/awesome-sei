@@ -1,0 +1,12 @@
+{
+  "name": "Majyo Treasures",
+  "description": "An idle RPG mini-game developed by MokokoStudio and supported by SeiNetwork.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "SignInSystem": "0x9Db4FeE54212a9Ab03Fc9b92600Ca40d0201881A"
+  },
+  "links": {
+    "project": "https://www.mokoko.vip/",
+    "twitter": "https://x.com/Mokoko_AI"
+  }
+}

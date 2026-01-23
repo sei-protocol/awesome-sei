@@ -1,0 +1,14 @@
+{
+  "name": "OpenOcean",
+  "description": "OpenOcean is the world’s leading DeFi trading aggregator, offering a full suite of trading tools and a powerful API.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "OpenOceanExchangeProxy": "0x6352a56caadC4F1E25CD6c75970Fa768A3304e64"
+  },
+  "links": {
+    "project": "https://openocean.finance/",
+    "twitter": "https://x.com/OpenOceanGlobal",
+    "github": "https://github.com/openocean-finance/",
+    "docs": "https://docs.openocean.finance/"
+  }
+}

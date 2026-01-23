@@ -1,0 +1,12 @@
+{
+  "name": "Idle Glory",
+  "description": "Idle action RPG built for warriors who grind less & win more – fast-paced, fully on Sei Network – Backed by SEI Foundation",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "IdleArenaContract": "0x33b75754B4265D884c949B0A823C0d9e7b66b906"
+  },
+  "links": {
+    "project": "https://play.idle-glory.io/",
+    "twitter": "https://x.com/QuestFuel"
+  }
+}

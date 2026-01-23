@@ -1,0 +1,16 @@
+{
+  "name": "Ascend the end",
+  "description": "Welcome to the Ascend Universe - a next-generation AI gaming ecosystem powered by Ascend Agents that continuously adapts to player behavior, featuring two launch-ready projects: Ascend the End and Descend Fortune.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0xB1591D0225E2C4093b615BF7208d237A92cebEaA",
+    "0xe4E75641dA89818F2C049CDc300bBf7757064735",
+    "0x73c94274FAD199eCeF094AcBfcebF0D3D0e817d8",
+    "0xc0AC911b99d533A850b040bFa9E18d7862015d38",
+    "0x27ba211EdEe76C96894667dcc11c373207A1896f"
+  ],
+  "links": {
+    "project": "https://ascenduniverse.com/",
+    "twitter": "https://x.com/ascenduniverse"
+  }
+}

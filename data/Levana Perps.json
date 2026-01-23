@@ -1,0 +1,11 @@
+{
+  "name": "Levana Perps",
+  "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers.",
+  "categories": ["DeFi::Protocols"],
+  "links": {
+    "project": "https://www.levana.finance/",
+    "twitter": "https://x.com/Levana_protocol",
+    "github": "https://github.com/levana-Protocol",
+    "docs": "https://docs.levana.finance/"
+  }
+}

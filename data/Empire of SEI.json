@@ -1,0 +1,13 @@
+{
+  "name": "Empire of SEI",
+  "description": "Empire of SEI is a next-level MMORPG that immerses players in a richly detailed fantasy world where tactical combat, resource management, and alliance building shape the fate of vast empires. Players command customizable heroes and armies across sprawling, dynamic battlefields, making strategic decisions that influence a constantly evolving geopolitical landscape.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0x062992a70aE8f0B6af5C350474C23FE8C50487E2",
+    "0x9BA2e9c687f55A77f37D74603E46a1cD9d4B002f"
+  ],
+  "links": {
+    "project": "https://www.empireofsei.com/",
+    "twitter": "https://x.com/EmpireOfSEI"
+  }
+}

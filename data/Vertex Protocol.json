@@ -1,0 +1,11 @@
+{
+  "name": "Vertex Protocol",
+  "description": "Vertex's high-performance orderbook enables low-latency order matching of 15 - 30 ms, comparable with most CEXs - while preserving the non-custodial ethos of DeFi.",
+  "categories": ["DeFi::Protocols"],
+  "links": {
+    "project": "https://www.vertexprotocol.com/",
+    "twitter": "https://x.com/vertex_protocol",
+    "github": "https://github.com/vertex-protocol",
+    "docs": "https://vertex-protocol.github.io/vertex-python-sdk/index.html"
+  }
+}

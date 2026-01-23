@@ -1,0 +1,10 @@
+{
+  "name": "Dragon Ninja",
+  "description": "The First AI-driven Roguelike Game in Web3",
+  "categories": ["Gaming::Games"],
+  "addresses": ["0x4db1008BD2Ac59E64d2dDd3a7ccCA46243C62f1E"],
+  "links": {
+    "project": "https://dragon-ninja.io/#/",
+    "twitter": "https://x.com/DragonNinja_io"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sailor Finance",
+  "description": "Sailor is the cornerstone DEX for Sei Network, offering seamless trading, discretized liquidity, and real yield all within his intuitive and easy-to-navigate platform.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "SwapRouter": "0xd1EFe48B71Acd98Db16FcB9E7152B086647Ef544",
+    "NFTDescriptor": "0x4ed1F9Cc4ee6bc11b27e285464C4DCaF911c85d9",
+    "UniswapV3Factory": "0xA51136931fdd3875902618bF6B3abe38Ab2D703b",
+    "Quoter": "0x9aeB489F5bc0d3Eb7892DD7E1FAE2d2ebD02E80b",
+    "QuoterV2": "0xE40703878aC5d3F76eAc66f8688A8F5652Af85b1"
+  },
+  "links": {
+    "project": "https://sailor.finance/",
+    "twitter": "https://x.com/SailorFi",
+    "docs": "https://sailor-finance.gitbook.io/sailor-finance-docs"
+  }
+}

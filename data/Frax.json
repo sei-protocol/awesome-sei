@@ -1,0 +1,14 @@
+{
+  "name": "Frax",
+  "description": "FRAX is a dollar-pegged stablecoin that uses AMO smart contracts and permissionless, non-custodial subprotocols as stability mechanisms.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "Wrapped Frax": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a"
+  },
+  "links": {
+    "project": "https://frax.com/",
+    "twitter": "https://x.com/fraxfinance",
+    "github": "https://github.com/FraxFinance",
+    "docs": "https://docs.frax.com/"
+  }
+}

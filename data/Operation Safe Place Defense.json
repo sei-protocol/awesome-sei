@@ -1,0 +1,19 @@
+{
+  "name": "Operation Safe Place Defense ",
+  "description": "Hybrid tower defense meets third-person shooter built on SEI. NFT tower cards and real-world child safety impact through Every Child Safe initiative.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "OSPRSC": "0x05fd9a4942a9af067097cfeca32ded9f8c8c417f",
+    "OSPRSD": "0x9809beea402bf6a4765adfcf0f6b02a2ee36b87c",
+    "OSPRSE": "0xc65183302e5c1cecb4b73371fc0d906a772bea0e",
+    "OSPRSB": "0x37d2b696a334d39376b5eb67e143f979e4760f1b",
+    "OSPRSF": "0xcdb4643a8dc0dd4e76a987cf81790586452f6f5c",
+    "OSPRSA": "0x8f67188a7a2f0d619110e10989ec12e025fef5b4"
+  },
+  "links": {
+    "project": "https://thecitadel.gg/",
+    "twitter": "https://x.com/OSP_TD",
+    "github": "https://github.com/Operation-safe-place/",
+    "email": "hello@operationsafeplace.com"
+  }
+}

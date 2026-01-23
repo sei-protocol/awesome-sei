@@ -1,0 +1,25 @@
+{
+  "name": "Yei Finance",
+  "description": "Yei Finance is a pioneering decentralized, non-custodial money market protocol on the Sei network, crafted to offer flexible and innovative financial solutions.",
+  "categories": ["DeFi::DEX", "DeFi::Yield"],
+  "addresses": {
+    "PoolAddressesProviderRegistry": "0x8138da4417340594aeea4be8fbc7693d9875b6cb",
+    "PoolAddressesProvider": "0x5c57266688a4ad1d3ab61209ebcb967b84227642",
+    "AaveOracle": "0xa1ce28cebab91d8df346d19970e4ee69a6989734",
+    "PullRewardsTransferStrategy": "0x127201e84ad4ee06ec15104cf083696d6354f8dd",
+    "CollectorController": "0x4ec5e3f9a32aabd6af62b9a22188f429d65f39c7",
+    "InitializableAdminUpgradeabilityProxy": "0xbf63c919a8c15f4741e75c232c7be0d0af4d1d05",
+    "EmissionManager": "0x69ea2c310a950e58984f4bec4accf2ece391dafd",
+    "Pool": "0xd078c43f88fbed47b3ce16dc361606b594c8f305",
+    "Collector": "0x800f3e929686ec90eeaabb8b98ed1eff126d532c",
+    "AaveProtocolDataProvider": "0x60c82a40c57736a9c692c42e87a8849fb407f0d6",
+    "InitializableImmutableAdminUpgradeabilityProxy": "0xf8157786e3401a7377becb7af288b84c8ee614e1",
+    "ACLManager": "0x241995b768c1ae629eb5a6f3749c6e7b8c4d47f2"
+  },
+  "links": {
+    "project": "https://www.yei.finance/",
+    "twitter": "https://x.com/YeiFinance",
+    "github": "https://github.com/Yei-Finance",
+    "docs": "https://docs.yei.finance/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RuneHero",
+  "description": "RuneHero is a groundbreaking web3 MMOARPG that merges the thrill of action-packed combat with the immersive world of blockchain technology. Dive into dungeons, vanquish monsters, and collect powerful Runes to enhance your hero's abilities. With Gamefi at its core, RuneHero offers an unparalleled gaming experience where every adventure is uniquely yours to conquer",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0xE4973d87182aCBD6a12bA45C17f64F451b6B74B4",
+    "0x893ADa34249cF37FA527B80050d9976E041a7282"
+  ],
+  "links": {
+    "project": "https://runehero.io/",
+    "twitter": "https://x.com/playrunehero"
+  }
+}

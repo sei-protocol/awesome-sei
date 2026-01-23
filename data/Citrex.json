@@ -1,0 +1,14 @@
+{
+  "name": "Citrex",
+  "description": "Citrex is a decentralised exchange offering low fee and fast CEX-like perpetual and spot trading from a self-custodial cross-margin account built on the Sei blockchain.",
+  "categories": ["DeFi::Protocols"],
+  "addresses" : {
+    "OrderDispatch":"0x993543DC8BdFCba9fc7355d822108eF49dB6b9F9",
+    "Ciao" : "0x7461cFe1A4766146cAFce60F6907Ea657550670d",
+    "Noble USDC" : "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1"
+  },
+  "links": {
+    "project": "https://dex.citrex.markets/",
+    "github": "https://github.com/citrex-markets"
+  }
+}

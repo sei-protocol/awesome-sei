@@ -1,0 +1,14 @@
+{
+  "name": "Fish War",
+  "description": "FishWar is an AI Agent Game with role-playing where players battle in a post-apocalyptic ocean and earn rewards through strategic gameplay: Free-to-play, Adventure & Arena Modes, Spin & Egg Hunt, Exclusive NFTs & In-Game Items.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0x85BC29178BAC07468b76078998f550861239c469",
+    "0x805679729df385815c57c24b20f4161bd34b655f"
+  ],
+  "links": {
+    "project": "https://www.fishwar.io/",
+    "twitter": "https://x.com/FishWarOfficial",
+    "github": "https://github.com/fishwario"
+  }
+}

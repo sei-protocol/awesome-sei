@@ -1,0 +1,22 @@
+{
+  "name": "Takara Lend",
+  "description": "Takara is a decentralized, open-source money market protocol natively built on the Sei blockchain. Powered by Sei’s high-throughput consensus mechanism and parallelized block processing, Takara offers lightning-fast, cost-efficient transactions, creating an optimized environment for borrowing and lending digital assets.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "Comptroller": "0x56A171Acb1bBa46D4fdF21AfBE89377574B8D9BD",
+    "Unitroller": "0x71034bf5eC0FAd7aEE81a213403c8892F3d8CAeE",
+    "MarketState": "0x323917A279B209754B32Ab57a817c64ECfE2AF40",
+    "MultiRewardDistributor": "0x68A92Be349d48766128C0Ae893Fc391859F9BC11",
+    "TErc20Delegator": "0xa82a40324dbf7b57e87bd07c9e1d722e9754be9b",
+    "tSEI": "0xa26b9bfe606d29f16b5aecf30f9233934452c4e2",
+    "tuBTC": "0xabfb7a392a6daac50f99c5d14b5f27effd08fe03",
+    "tiSEI": "0xda642a7821e91ed285262fead162e5fd17200429",
+    "tspSEI": "0x0c5596dff747b5eeab703beb0ee21da7bda0b392"
+  },
+  "links": {
+    "project": "https://app.takaralend.com/",
+    "twitter": "https://x.com/TakaraLend",
+    "github": "https://github.com/Takara-Lend",
+    "docs": "https://takara.gitbook.io/takara-lend"
+  }
+}

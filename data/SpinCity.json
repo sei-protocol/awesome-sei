@@ -1,0 +1,14 @@
+{
+  "name": "SpinCity",
+  "description": "SpinCity is a gamified social platform on the SEI blockchain, where players earn rewards through games, daily tasks, and leaderboards—all within a secure, transparent ecosystem.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Fairand (SpinCity)": "0x8e5C235b586A8b4d3b326eB999f7C892Daf45283",
+    "scc (scc)": "0x3E3900513E5DA31183e816Af1b2c460B6FF4C9e5",
+    "ERC-20: Fairand (SpinCity)": "0xBa9498e8F312FFFC78de8Ef3cB73B0869b51549d"
+  },
+  "links": {
+    "project": "https://spincity.ai/",
+    "twitter": "https://x.com/spincityai"
+  }
+}

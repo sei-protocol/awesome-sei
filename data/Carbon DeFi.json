@@ -1,0 +1,16 @@
+{
+  "name": "Carbon DeFi",
+  "description": "Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "CarbonController": "0xe4816658ad10bF215053C533cceAe3f59e1f1087",
+    "CARBON-STRAT": "0xA4682A2A5Fe02feFF8Bd200240A41AD0E6EaF8d5"
+  },
+  "links": {
+    "project": "https://sei.carbondefi.xyz/trade",
+    "twitter": "https://x.com/carbondefixyz",
+    "github": "https://github.com/bancorprotocol/",
+    "docs": "https://docs.carbondefi.xyz",
+    "telegram": "https://t.me/CarbonDeFixyz"
+  }
+}

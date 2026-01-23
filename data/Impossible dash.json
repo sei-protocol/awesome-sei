@@ -1,0 +1,13 @@
+{
+  "name": "Impossible Dash",
+  "description": "Impossible Dash is a skill-based, hyper-casual game inspired by The World’s Hardest Game, where players navigate a constantly moving cube through an endless maze of traps and deadly obstacles.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0xa2121284E904a99d95596F42ea3Eaa2B6Dcc63cD",
+    "0xEE939dA4f04C7fd87180B5226714afcaCb964f31"
+  ],
+  "links": {
+    "project": "https://www.impossibledash.com/main",
+    "twitter": "https://x.com/DashOnSei"
+  }
+}

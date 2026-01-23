@@ -1,0 +1,14 @@
+{
+  "name": "Synnax",
+  "description": "First SEI-BACKED STABLECOIN",
+  "categories": ["DeFi::Stablecoins"],
+  "addresses": {
+    "syUSD": "0x059A6b0bA116c63191182a0956cF697d0d2213eC"
+  },
+  "links": {
+    "project": "https://app.synnax.fi/",
+    "twitter": "https://github.com/Synnax-Protocol",
+    "github": "https://github.com/Synnax-Protocol",
+    "docs": "https://docs.synnax.fi/"
+  }
+}

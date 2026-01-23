@@ -1,0 +1,15 @@
+{
+  "name": "Piratopia",
+  "description": " Join a new type of blockchain game where you can OWN the high seas. Build your ship and battle your way across the isles to become the top pirate!🔥",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "DailyQuest": "0x5Ba434a4A7be53833eC921c26F029aeA53AE71fe",
+    "Marketplace": "0x34ad40405C23Cb2A4B4D5099ab3578FAeA501981",
+    "Island": "0xA678D15C771719e2E5410DA31852Fce65aB46A3D"
+  },
+  "links": {
+    "project": "https://piratopia.xyz/",
+    "twitter": "https://x.com/piratopia",
+    "github": "https://github.com/Piratopia"
+  }
+}

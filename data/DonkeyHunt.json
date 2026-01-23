@@ -1,0 +1,12 @@
+{
+  "name": "Donkey Hunt",
+  "description": " A game that combines card collecting, treasure hunting, and leveling! Developed by MokokoStudio and powered by SeiNetwork.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "SignInSystem": "0x9Db4FeE54212a9Ab03Fc9b92600Ca40d0201881A"
+  },
+  "links": {
+    "project": "https://www.mokoko.vip/",
+    "twitter": "https://x.com/Mokoko_AI"
+  }
+}

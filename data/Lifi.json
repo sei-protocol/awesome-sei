@@ -1,0 +1,14 @@
+{
+  "name": "LiFi",
+  "description": "A cross-chain liquidity aggregation protocol designed to simplify and optimize asset swaps and transfers across multiple blockchain networks",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "LiFiDiamond": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+  },
+  "links": {
+    "project": "https://li.fi/",
+    "twitter": "https://x.com/lifiprotocol",
+    "github": "https://github.com/lifinance",
+    "docs": "https://docs.li.fi/introduction/introduction"
+  }
+}

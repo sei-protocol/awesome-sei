@@ -1,0 +1,14 @@
+{
+  "name": "Symphony",
+  "description": "Symphony Exchange aggregates decentralized exchanges on the Sei Network into a single, unified interface.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "Symphony": "0xAD3DF981018149CD90e5869d14Efe2516b108270"
+  },
+  "links": {
+    "project": "https://welcome.symph.ag/",
+    "twitter": "https://x.com/SymphonyAg",
+    "github": "https://github.com/Symphony-Exchange",
+    "docs": "https://docs.symph.ag/"
+  }
+}

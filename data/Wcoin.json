@@ -1,0 +1,13 @@
+{
+  "name": "Wcoin",
+  "description": "WcoinGame is the first and the most popular iGaming platform to support SEI, based on PC & TG.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "USDSpinPool": "0x9e0c7cf1fc8bd83678cd211a51a26dea8a860c78",
+    "WCoinPool": "0xb80199e97181c4f606ab82f6eb20796d15865340"
+  },
+  "links": {
+    "project": "https://wcoingame.com/",
+    "twitter": "https://x.com/wcoin_io"
+  }
+}

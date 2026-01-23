@@ -1,0 +1,14 @@
+{
+  "name": "Symbiosis",
+  "description": "Symbiosis is a decentralized exchange that pools together liquidity from different blockchains, whether they use EVM technology or not",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "Portal": "0xf85fc807d05d3ab2309364226970aac57b4e1ea4"
+  },
+  "links": {
+    "project": "https://symbiosis.finance/",
+    "twitter": "https://x.com/symbiosis_fi",
+    "github": "https://github.com/symbiosis-finance",
+    "docs": "https://docs.symbiosis.finance/"
+  }
+}

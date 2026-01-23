@@ -1,0 +1,12 @@
+{
+  "name": "World of Dypians",
+  "description": "An action-packed multiplayer game where heroes come together to defend their planet against the Dark Lord's invasion. Choose from a variety of heroes, each with unique abilities, and join forces with other players to destroy the enemy's bases.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Sei Beta Pass (SEIBP)": "0x8E4917c1Ba9598fBbF66934CB17AC28c3b5849Ab"
+  },
+  "links": {
+    "project": "https://www.worldofdypians.com/",
+    "twitter": "https://x.com/worldofdypians"
+  }
+}

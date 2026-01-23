@@ -1,0 +1,19 @@
+{
+  "name": "Boredtopia",
+  "description": "Boredtopia is a pioneering Web3 gaming platform expertly designed to transform familiar Web2 games into dynamic, player-owned Web3 adventures. We're building a vibrant, reward-driven ecosystem where players genuinely own their in-game world.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0x13e0c46cbe2d54cc2b9108c50c29a93c6d682c4e",
+    "0x67af057c59f34ac73438aa18e7f59edf318bcefd",
+    "0x3fb0406660afc6af7eaccd496b6e3030538f6a02",
+    "0x67216d371fdc819a4fd43bf906e525441702225f",
+    "0x0b1adcdbba3f22f42a55efb994180baae79e897c",
+    "0x24a6029005bd5d5a59d03bf0f0ba6819cbe96dfc",
+    "0xed06254c8493e0cdb4fba1f9f80a3dfe485138a6",
+    "0x3C3Bcca29d63802C081a75BDCcbBeAD011488533",
+    "0x84ce6D62421fFCEE5477457421ebb9314CA6b7b9"
+  ],
+  "links": {
+    "project": "http://fff.boredtopia.app/"
+  }
+}

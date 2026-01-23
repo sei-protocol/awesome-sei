@@ -1,0 +1,11 @@
+{
+  "name": "Seitrace",
+  "description": "The ultimate block explorer for Sei. Track transactions, analyze data, and master the network.",
+  "categories": ["Analytics::Explorers"],
+  "links": {
+    "project": "https://seitrace.com",
+    "twitter": "https://x.com/seitrace_",
+    "github": "https://github.com/seitrace",
+    "docs": "https://docs.seitrace.com"
+  }
+}

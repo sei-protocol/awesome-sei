@@ -1,0 +1,15 @@
+{
+  "name": "Eldrem",
+  "description": "Project Eldrem is a living fantasy universe of interconnected games. Players can use their NFTs and tokens across multiple worlds, each expanding the Eldrem IP and deepening the play experience.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Raffle": "0xE583094a39844336DeC0C0e53eB004F8A1B67911",
+    "Rewards": "0xB52828DFE724a3Bf0598c437384c68899d1C2f76",
+    "Tickets": "0xCbE9f7FD4045548f10Be9c3D9D4e098C11519B52",
+    "Action Tracker": "0xfBFEdA465d4D164afeE48095E75B67Ae10c5EA24"
+  },
+  "links": {
+    "project": "https://www.eldrem.com/",
+    "twitter": "https://x.com/projecteldrem"
+  }
+}

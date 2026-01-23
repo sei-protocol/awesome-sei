@@ -1,0 +1,13 @@
+{
+  "name": "Wolffun",
+  "description": "First MOBA NFT PvP Game powered by Blockchain technology. Form parties with your friends, join battle & start earning with your skills.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "BattleSystem": "0x725fa74d17a9a139d493935538e144bf6B63B4FD",
+    "QuestSystem": "0x17562558E1AD027AbB5CFEb2194836f1529072a7"
+  },
+  "links": {
+    "project": "https://www.wolffungame.com/",
+    "twitter": "https://x.com/wolffungame"
+  }
+}

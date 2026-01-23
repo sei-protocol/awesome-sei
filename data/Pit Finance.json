@@ -1,0 +1,41 @@
+{
+  "name": "Pit Finance",
+  "description": "Pit Finance is a decentralized yield optimizer built exclusively for the Sei Network, designed to maximize the potential of crypto assets.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "vaultOriginalAddress": "0x5512D5E89a29447462Ab6BBBcbD3fe6F0A0D9FDd",
+    "vaultFactoryAddress": "0x6944BfDAcD00957715eCBCeAac3F49e07cB6f35F",
+    "tokenizedStrategyAddress": "0x7c96Bf5203fA1584A81f160B9445EAB02bfa3E7B",
+    "registryAddress": "0xE560fC83EA78028a95CCAb1ECD45039fFB62301C",
+    "releaseRegistryAddress": "0x43e60c59567996C5a1b27ca8719ADF6CA2bC407B",
+    "accountantAddress": "0x79756b033390232a5A55B5D6571a7Bc1b11A2b93",
+    "accountantFactoryAddress": "0x07428D1CdC20Ce70Ac5D06E44CCB9920F99ab447",
+    "keeperAddress": "0x9CDdFFc79Ba597CCBBd6da6a81Cc1b1ef29FB4de",
+    "baseAprOracleAddress": "0xed6A3CD7591Df25bC92E42381d9c53E041B5ACAa",
+    "aaveStrategyAprOracleAddress": "0xdF7F9020800c2B444ad524982Fc6cA5A30915811",
+    "vault-PITv1-AAVEv3-WSEI-LENDER-POOL": "0x63E37028c1740303e8456962E6ddf98359FE0BDc",
+    "strategy-PITv1-AAVEv3-WSEI-LENDER-POOL": "0x0044f5f3F121beB7ef11c6cfBc45a56e80adFd6B",
+    "rewards-escrow-PITv1-AAVEv3-WSEI-LENDER-POOL": "0x0f9BaCD61cf1fd9d038F41a8380dBd7A826470A7",
+    "vault-PITv1-AAVEv3-USDT-LENDER-POOL": "0x1e3BcEb9AD3dc3f80820d29039C1A46e28d3A573",
+    "strategy-PITv1-AAVEv3-USDT-LENDER-POOL": "0x5E2BAF273586F747e406eB0fD0CAdAECe0f479Da",
+    "rewards-escrow-PITv1-AAVEv3-USDT-LENDER-POOL": "0x3aEC64F4e285cFFD50605EB962455159d436d31B",
+    "vault-PITv1-AAVEv3-USDC-LENDER-POOL": "0x575E2291C6FDe8eEf7284CBd7Ff17615de75c47B",
+    "strategy-PITv1-AAVEv3-USDC-LENDER-POOL": "0x1eB5B573852897831414Fbd607c214EdB9b0B7Dd",
+    "rewards-escrow-PITv1-AAVEv3-USDC-LENDER-POOL": "0x318253deCE357Ef0f75428C7369A180D60FD0971",
+    "vault-PITv1-AAVEv3-iSEI-LENDER-POOL": "0x49561C4a905f7acCdaCAec5e3C17113d5f1C5a3b",
+    "strategy-PITv1-AAVEv3-iSEI-LENDER-POOL": "0xA4A3B54665A5ef21ac5B294b8945Dd130aC6E5fc",
+    "rewards-escrow-PITv1-AAVEv3-iSEI-LENDER-POOL": "0x130c58f93cE57121c97F524CD5171BDd258f4314",
+    "vault-PITv1-AAVEv3-FRAX-LENDER-POOL": "0xE8d7f53173BB5D0C898e4D576E4E297cB2859472",
+    "strategy-PITv1-AAVEv3-FRAX-LENDER-POOL": "0xCd6d59a116F0d4E370A62b8D6EA146dD02E2114A",
+    "rewards-escrow-PITv1-AAVEv3-FRAX-LENDER-POOL": "0x9975f0d8560ed6a29C376ddc950f5663527327e8",
+    "vault-PITv1-AAVEv3-WETH-LENDER-POOL": "0x0AEfC6F2E9a866ddB4813Cb1E897a2E9e26a1E53",
+    "strategy-PITv1-AAVEv3-WETH-LENDER-POOL": "0xE77790035f956E9C6E895e57cded63A7AC69F2c9",
+    "rewards-escrow-PITv1-AAVEv3-WETH-LENDER-POOL": "0xb4169a0cD663FB4A7762a71c9d0Dd0ddc18201e2"
+  },
+  "links": {
+    "project": "https://pit.finance/",
+    "twitter": "https://x.com/Pit_Finance",
+    "github": "https://github.com/pitfidev",
+    "docs": "https://docs.pit.finance/"
+  }
+}

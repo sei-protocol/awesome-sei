@@ -1,0 +1,13 @@
+{
+  "name": "MetaArena",
+  "description": "MetaArena is a Web3-focused AI game publishing and creation platform.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "TIMI": "0xA5343D96D3cD64a966C5E73B4AB327e6bB258FcA",
+    "MetaArenaNFT": "0x5B6D32f2B55b62da7a8cd553857EB6Dc26bFDC63"
+  },
+  "links": {
+    "project": "https://metaarena.org/",
+    "twitter": "https://x.com/MetaArenaGaming"
+  }
+}

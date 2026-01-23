@@ -1,0 +1,26 @@
+{
+  "name": "Silo Staking",
+  "description": "Silo Protocol is the first pure liquid staking platform that empowers users to optimize and unlock their staked Sei for use across the entire Sei ecosystem.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "DVN": "0xd24972c11f91c1bb9eaee97ec96bb9c33cf7af24",
+    "DragonswapStaker": "0xf2a024b29a7db71ec6ca6718a72bfb2a8fb0bf64",
+
+    "iSEI": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+    "StargateStaking": "0x8c1014b5936dd88baa5f4db0423c3003615e03a0",
+    "LiFiDiamond": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+    "stSEI": "0xe5085112160ff75ee89a540cdba570eafdaf7f57",
+    "BalanceRelayer": "0xe6889b9698cf32206c6ca6f6f83da1b6e7f12fa0",
+    "Dragonswap V2 Positions NFT-V1": "0xa7fdcbe645d6b2b98639ebacbc347e2b575f6f70",
+    "SimpleStaking": "0x7ccdcfbcfb6b4d6dbb148d5c4b1786eb87a58d43",
+    "PartnersRewardDistribution": "0xd3bf119cad7c8567e4543dc47fce8db104dd93dd",
+    "MetaRouter": "0xce8f24a58d85ed5c5a6824f7be1f8d4711a0eb4c",
+    "ReceiveUln302": "0xe1844c5d63a9543023008d332bd3d2e6f1fe1043"
+  },
+  "links": {
+    "project": "https://www.silostaking.io/",
+    "twitter": "https://x.com/Silo_Stake",
+    "github": "https://github.com/silostaking",
+    "docs": "https://silostaking.notion.site/Silo-Documentation-aa802f61ff2c49d6bdd3ab280c34ea51"
+  }
+}

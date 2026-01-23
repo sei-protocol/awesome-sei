@@ -1,0 +1,14 @@
+{
+  "name": "Dawnshard",
+  "description": "The competitive fantasy card game where each deck is unique in the world. With AI-generated decks, every match becomes a new adventure! Unleash your creativity, test your skill, and rise as the greatest Seeker 🔥",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Dawnshard - Launch Arena Key": "0xfd762686fc040fa448b7e14136dd9dab619665a9",
+    "Dawnshard - Season 1": "0xa169F45552A437f0B45E2d5e4804709A0E8e573E",
+    "IntraverseProtocolDirect": "0xe37470f98Dcf55533E06c5262c063E235FA97787"
+  },
+  "links": {
+    "project": "https://playdawnshard.com/",
+    "twitter": "https://x.com/play_dawnshard"
+  }
+}

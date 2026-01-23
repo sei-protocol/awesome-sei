@@ -1,0 +1,12 @@
+{
+  "name": "Celestial Flutters",
+  "description": "Celestial Flutters is a Community driven browser game. With a Lore that follows the Invasion of the Voraxians. With modes like Classic and Tournament live and ready to play and more modes like Versus coming real soon.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "CelestialFlutterGame": "0xe676bCd53fd9553159D2Ef5B06b744FB57cF090e"
+  },
+  "links": {
+    "project": "https://celestialflutters.com/",
+    "twitter": "https://x.com/Flutter_san"
+  }
+}

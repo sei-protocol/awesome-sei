@@ -1,0 +1,11 @@
+{
+  "name": "Brrr",
+  "description": "Brrr - where Sei Trading begins. Brrr is the only trading terminal you'll ever need for Sei Network. Launch, bridge, analyze, and trade - all in one powerful interface.",
+  "categories": ["DeFi::Protocols"],
+  "links": {
+    "project": "https://brrr.fun",
+    "twitter": "https://x.com/seitrace_",
+    "github": "https://github.com/seitrace",
+    "docs": "https://docs.seitrace.com"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kindred AI",
+  "description": "Kindred is pioneering the next frontier of AI by Bringing Iconic IPs to Life as emotionally intelligent agents. These aren’t just assistants; they are interactive AI companions that seamlessly integrate across desktop, mobile, smartwatches, smartglasses, and immersive XR platforms—creating connections that feel Personal, Emotional, and Real.",
+  "categories": ["Gaming::Games"],
+  "addresses": [
+    "0x7dFE0281c318922953e1e7Ae54F1B77C4096f50F",
+    "0xB9A40B0289210552F195F0b6fb8fa6cF2d307237"
+  ],
+  "links": {
+    "project": "https://www.kindredlabs.ai/",
+    "twitter": "https://x.com/Kindred_AI"
+  }
+}

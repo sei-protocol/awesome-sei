@@ -1,0 +1,15 @@
+{
+  "name": "Veilcraft",
+  "description": "Veilcraft is a roguelike card game where players build decks and face AI-generated challenges that change every run.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "AlphaPoints": "0x44f6dd4566b05736d44011774a10050B1Be0a765"
+  },
+  "links": {
+    "project": "https://www.playveilcraft.com",
+    "twitter": "https://x.com/playveilcraft",
+    "github": "https://play.google.com/store/apps/details?id=com.mortalabs.veilcraft",
+    "communityDiscord": "https://discord.gg/veilcraft",
+    "email": "hello@mortalabs.com"
+  }
+}

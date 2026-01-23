@@ -1,0 +1,26 @@
+{
+  "name": "Oku Trade",
+  "description": "Oku, built by GFX Labs, is a non-custodial DeFi meta-aggregator offering the best swap and bridge rates across any EVM chain",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "v3 Core Factory": "0x75FC67473A91335B5b8F8821277262a13B38c9b3",
+    "Universal Router": "0xa683c66045ad16abb1bCE5ad46A64d95f9A25785",
+    "Proxy Admin": "0xB3309C48F8407651D918ca3Da4C45DE40109E641",
+    "Tick Lens": "0xE3dbcD53f4Ce1b06Ab200f4912BD35672e68f1FA",
+    "NFT Descriptor Library V1.3.0": "0x454050C4c9190390981Ac4b8d5AFcd7aC65eEffa",
+    "Nonfungible Token Position Descriptor V1.3.0": "0x38EB9e62ABe4d3F70C0e161971F29593b8aE29FF",
+    "Descriptor Proxy": "0x743E03cceB4af2efA3CC76838f6E8B50B63F184c",
+    "Nonfungible Token Position Manager": "0x8B3c541c30f9b29560f56B9E44b59718916B69EF",
+    "v3 Migrator": "0x6Aa54a43d7eEF5b239a18eed3Af4877f46522BCA",
+    "v3 Staker": "0xaa52bB8110fE38D0d2d2AF0B85C3A3eE622CA455",
+    "Quoter V2": "0x807F4E281B7A3B324825C64ca53c69F0b418dE40",
+    "Swap Router02": "0xdD489C75be1039ec7d843A6aC2Fd658350B067Cf",
+    "Limit order registry": "0xA9d71E1dd7ca26F26e656E66d6AA81ed7f745bf0"
+  },
+  "links": {
+    "project": "https://oku.trade/",
+    "twitter": "https://x.com/oku_rade",
+    "github": "https://github.com/oku-trade",
+    "docs": "https://docs.oku.trade"
+  }
+}

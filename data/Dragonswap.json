@@ -1,0 +1,19 @@
+{
+  "name": "Dragonswap",
+  "description": "DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics.",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "SwapRouter02": "0x11da6463d6cb5a03411dbf5ab6f6bc3997ac7428",
+    "DragonswapV2Factory": "0x179d9a5592bc77050796f7be28058c51ca575df4",
+    "WSEI": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+    "DragonswapFactory": "0x71f6b49ae1558357bbb5a6074f1143c46cbca03d",
+    "DragonswapDSERC20": "0x150b4A3088dFB06d92531D1cCa6E980FB9a270e1",
+    "DragonswapRouter": "0xa4cf2f53d1195addde9e4d3aca54f556895712f2"
+  },
+  "links": {
+    "project": "https://dragonswap.app",
+    "twitter": "https://x.com/dragonswap_dex",
+    "github": "https://github.com/dragonswap-app",
+    "docs": "https://docs.dragonswap.app/dragonswap"
+  }
+}

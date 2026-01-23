@@ -1,0 +1,14 @@
+{
+  "name": "RGBClash",
+  "description": "The Color ecosystem consists of Creators, and Gamers however every user can be both.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Color": "0x833068b2e9A81c55BcB4B0Acb148002f6F9efF07",
+    "ColorNftPouchEth": "0x3b1BcEceA7B956c9215895a6746BB8998D492ced",
+    "SingleGameBubble": "0x9168AF279bcD490DD422b9760Bd9EFa82Ac81cb0"
+  },
+  "links": {
+    "project": "https://www.rgbclash.xyz/",
+    "twitter": "https://x.com/dragonzlandx"
+  }
+}

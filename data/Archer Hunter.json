@@ -1,0 +1,15 @@
+{
+  "name": "Archer Hunter",
+  "description": "1st action-packed RPG available for iOS and Android 🏹 2M Installs.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "NikaQuest": "0xD287E43536b16F53aDd7bcF422e6fc177de796F1",
+    "ArcherHunter": "0x7231876F16a5e935bDAC93FB0c1C65B17C5a69b4",
+    "Faster": "0xa193D87B0D5E23ef45379F90066891CbD6013226"
+  },
+  "links": {
+    "project": "https://archerhunter.io/",
+    "twitter": "https://x.com/archerhunter_HQ",
+    "github": "https://github.com/nikalabs-org"
+  }
+}

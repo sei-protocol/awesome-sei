@@ -1,0 +1,14 @@
+{
+  "name": "DZap",
+  "description": "DZap is a cross-chain DeFi aggregator that lets users zap between protocols and chains in a single transaction, streamlining liquidity migration and strategy execution across multiple dApps",
+  "categories": ["DeFi::Protocols"],
+  "addresses": {
+    "DZapDiamond": "0xb3926deF2e0989B0700a57034C9A211bfBcF858B"
+  },
+  "links": {
+    "project": "https://www.dzap.io/",
+    "twitter": "https://x.com/DZapIO",
+    "github": "https://github.com/DZapIO",
+    "docs": "https://docs.dzap.io/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "USDT0",
+  "description": "USDT0 ensures fast, secure, and cost-efficient cross-chain transfers all while maintaining a strict 1:1 backing with USDT.",
+  "categories": ["DeFi::Stablecoin"],
+  "addresses": {
+    "USDT0": "0x9151434b16b9763660705744891fA906F660EcC5"
+  },
+  "links": {
+    "project": "https://usdt0.to",
+    "twitter": "https://x.com/USDT0_to",
+    "github": "https://github.com/tetherto",
+    "docs": "https://docs.usdt0.to/"
+  }
+}

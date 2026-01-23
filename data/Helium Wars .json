@@ -1,0 +1,21 @@
+{
+  "name": "Helium Wars",
+  "description": "Helium Wars: Shaped By Players, Powered By Creators  The first-ever co-created tactical a hero shooter where players don’t just compete — they actively shape the experience itself. From cosmetics and maps to missions and storylines, the community builds the game as much as they play it. A living world that never goes stale because it evolves with its players. And no, it’s not another broken “play-to-earn” grindfest. Rewards flow to those who actually help the game thrive.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Helium Token": "0x451E467614AE19af081EB2f347a0b0102d90adE4",
+    "Deposit": "0x884fdEDbaC2DF3C2146810CAF02F95baedABD0fa",
+    "Deposit Implementation": "0x55C9326c99f975cba4028494c13eeD4Ad513c0FC",
+    "HeliumVoyager NFT": "0xf07e98829EbCf1fDA149150C4c571D041597D6A1"
+  },
+  "links": {
+    "project": "https://theheliumwars.com/",
+    "twitter": "https://x.com/HeliumWars_",
+    "github": "https://git.antiersolutions.com/helium-wars-mvp/frontend/helium-questing",
+    "docs": "https://docsend.com/view/4n5y7wmyfhzfqwq3",
+    "communityDiscord": "https://discord.gg/xr2XkJpyxG",
+    "communityTelegram": "https://t.me/TheHeliumWars",
+    "email": "info@theheliumwars.com",
+    "telegram": "https://t.me/TheHeliumWars"
+  }
+}

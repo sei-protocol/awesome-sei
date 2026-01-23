@@ -1,0 +1,12 @@
+{
+  "name": "Dragon Land",
+  "description": " Dragonland is a game dApp, powered by the Sei Network, where players control NFT Dragons to collect gold and earn rewards.",
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "Dragonland": "0x5969b71e40cbf3b939b835654abe14a2eebf1330"
+  },
+  "links": {
+    "project": "https://play.dragonland.uk/",
+    "twitter": "https://x.com/dragonzlandx"
+  }
+}
