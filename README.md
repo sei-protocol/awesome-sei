@@ -28,6 +28,29 @@ _Decentralized Finance protocols and applications_
 - [Carbon DeFi](https://www.carbondefi.xyz) - Carbon DeFi is an onchain orderbook-like protocol. Importantly, end-user traders are usually makers, not takers. Contrary to AMMs, this means no slippage, and no sandwich attacks.
 - [Brrr](https://brrr.fun) - Brrr - where Sei Trading begins. Brrr is the only trading terminal you'll ever need for Sei Network. Launch, bridge, analyze, and trade - all in one powerful interface.
 - [Dragonswap](https://dragonswap.app) - DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics.
+- [Oku Trade](https://oku.trade) - Oku, built by GFX Labs, is a non-custodial DeFi meta-aggregator offering the best swap and bridge rates across any EVM chain
+- [Silo Staking](https://www.silostaking.io/) - Silo Protocol is the first pure liquid staking platform that empowers users to optimize and unlock their staked Sei for use across the entire Sei ecosystem.
+- [Synnax](https://app.synnax.fi/) - First SEI-BACKED STABLECOIN
+- [Vertex Protocol](https://www.vertexprotocol.com/) - Vertex’s high-performance orderbook enables low-latency order matching of 15 - 30 ms, comparable with most CEXs – while preserving the non-custodial ethos of DeFi.
+- [YEI](https://www.yei.finance/) - Yei Finance is a pioneering decentralized, non-custodial money market protocol on the Sei network, crafted to offer flexible and innovative financial solutions.
+- JellyVerse(https://jellyverse.org/) - Jellyverse is an entire universe built and governed by its community, the Jellyverse DAO. Jellyverse aims to pave the way for the next generation of DeFi, often referred to as DeFi 3.0.
+- [Takara Lend](https://app.takaralend.com/) - Takara is a decentralized, open-source money market protocol natively built on the Sei blockchain. Powered by Sei’s high-throughput consensus mechanism and parallelized block processing, Takara offers lightning-fast, cost-efficient transactions, creating an optimized environment for borrowing and lending digital assets.
+- [Pit Finance](https://pit.finance/) - Pit Finance is a decentralized yield optimizer built exclusively for the Sei Network, designed to maximize the potential of crypto assets.
+- [Symbiosis](https://symbiosis.finance/) - Symbiosis is a decentralized exchange that pools together liquidity from different blockchains, whether they use EVM technology or not
+- [Tea-REX](https://docs.trex.trade/) - Tea-REX is a cutting-edge margin trading platform that's anything but extinct. We've evolved the trading experience to be as mighty as a T-Rex yet as smooth as your morning cup of tea.
+- [DonkeSwap](https://donkeswap.com/) - Donkeswap is a next-generation decentralized exchange (DEX) designed for the memecoin market. Built with a novel Automated Market Maker (AMM) algorithm, it delivers you superior liquidity, lower slippage, and the trading speed meme traders crave.
+- [Levana Perps](https://www.levana.finance/) - Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers.
+- [Sailor Finance](https://sailor.finance/) - Sailor is the cornerstone DEX for Sei Network, offering seamless trading, discretized liquidity, and real yield all within his intuitive and easy-to-navigate platform.
+- [Citrex](https://dex.citrex.markets/) - Citrex is a decentralised exchange offering low fee and fast CEX-like perpetual and spot trading from a self-custodial cross-margin account built on the Sei blockchain.
+- [Symphony](https://welcome.symph.ag/) - Symphony Exchange aggregates decentralized exchanges on the Sei Network into a single, unified interface.
+- [Kame](https://kame.ag/leaderboard) - Kame Aggregator is a DeFi Protocol that aggregates liquidity sources into one comprehensive interface and API.
+- [Frax](https://frax.com/) - FRAX is a dollar-pegged stablecoin that uses AMO smart contracts and permissionless, non-custodial subprotocols as stability mechanisms.
+- [OpenOcean](https://openocean.finance/) - OpenOcean is the world’s leading DeFi trading aggregator, offering a full suite of trading tools and a powerful API.
+- [Li.fi](https://li.fi/) - A cross-chain liquidity aggregation protocol designed to simplify and optimize asset swaps and transfers across multiple blockchain networks
+- [DZap](https://www.dzap.io/) - DZap is a cross-chain DeFi aggregator that lets users zap between protocols and chains in a single transaction, streamlining liquidity migration and strategy execution across multiple dApps
+- [OKX DEX](https://web3.okx.com/dex-swap) - OKX DEX Swap is a decentralized exchange (DEX) aggregator that allows you to trade crypto seamlessly across multiple blockchains.
+- [USDT0](https://usdt0.to/) - USDT0 ensures fast, secure, and cost-efficient cross-chain transfers all while maintaining a strict 1:1 backing with USDT.
+
 
 ## Gaming
 
