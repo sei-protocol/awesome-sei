@@ -2,6 +2,9 @@
   "name": "Sakura Nexus",
   "description": "Sakura Nexus reimagines Japan's favorite classic games—mahjong, poker, and slots—through NFTs and a dual-token system, offering true digital ownership, community-powered growth, and immersive, sakura-themed experiences.",
   "categories": ["Gaming::Games"],
+  "addresses": {
+    "Sakura Nexus NFT": "0xAFe3f945FF99E6bD2C46f687085365F4807dcdeE"
+  },
   "links": {
     "project": "https://www.sakura-nexus.xyz",
     "twitter": "https://x.com/PlaySakuraNexus",

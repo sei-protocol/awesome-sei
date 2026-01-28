@@ -51,6 +51,7 @@ Use these category formats in your JSON file:
 
 - `"DeFi::DEX"` - Decentralized exchanges
 - `"DeFi::Lending"` - Lending and borrowing protocols
+- `"Defi::Prediction Market"` - Prediction market platforms
 - `"DeFi::Staking"` - Liquid staking and staking services
 - `"DeFi::Derivatives"` - Perpetuals, options, and derivatives
 - `"DeFi::Stablecoins"` - Stablecoin protocols

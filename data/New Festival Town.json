@@ -3,7 +3,9 @@
   "description": "Cozy virtual pet retro console.",
   "categories": ["Gaming::Games"],
   "addresses": {
-    "PROOF OF CARE": "0xDcD3cE0A94aC4E1f1dad2E466b2eCD8054CA9bf6"
+    "PROOF OF CARE": "0xDcD3cE0A94aC4E1f1dad2E466b2eCD8054CA9bf6",
+    "AESTHETICS MARKET": "0xd4Def0f55c6e83D34a6D57e8aF95c5CA27847cff",
+    "NFT AESTHETICS": "0x35E67ca5AE00De42563607C8DE894BA0db9d1f99"
   },
   "links": {
     "project": "https://nft.asharastudios.com/",

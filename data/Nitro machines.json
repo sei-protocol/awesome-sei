@@ -1,9 +1,11 @@
 {
   "name": "Nitro Machines",
   "description": "Multiplayer PvP PvE Co-op arcade racer",
-  "categories": [
-    "Gaming::Games"
-  ],
+  "categories": ["Gaming::Games"],
+  "addresses": {
+    "NMT Token": "0x42c7DD3a3f9b206B4e88367D859B8Bb69d9cD289",
+    "NMT": "0xEfd4d9Cec950b866BcdE3FDb28F3a95a26F2EeF3"
+  },
   "links": {
     "project": "https://www.nitromachines.com",
     "twitter": "https://x.com/nitromachines",

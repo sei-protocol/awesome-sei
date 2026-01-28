@@ -1,0 +1,22 @@
+{
+  "name": "PredP.red",
+  "description": "A fully decentralized prediction market with bonding curve",
+  "categories": ["Defi::Prediction Market"],
+  "addresses": {
+    "PPApp(Prediction Market)": "0x60B5C6dc0C523a4d17111d6cfB915D8983A66030",
+    "AirdropApp(user get airdrop or buy $PCT)": "0x84948feBDffaE3a62d7Ac05B1428B3a6cC2BfBA4",
+    "PCTApp($PCT)": "0x4ACc6ce38a319a6D0689a5eC84B6d0a39B64c475",
+    "PFTApp($PFT)": "0xCD504Dcbe162d695f860E8834E5195105051ea94",
+    "PPTApp($PPT)": "0x4846b60588749D2d33F90B99c9E9cFd20D2C485a"
+  },
+  "links": {
+    "project": "https://predp.red/",
+    "twitter": "https://x.com/PredPred_HQ",
+    "github": "https://github.com/PredPred-HQ/docs",
+    "docs": "https://github.com/PredPred-HQ/docs",
+    "communityDiscord": "https://discord.gg/qsNUCXqz",
+    "communityTelegram": "https://t.me/PredPred_HQ",
+    "email": "a@predp.red",
+    "telegram": "@PredPred_HQ"
+  }
+}

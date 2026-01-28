@@ -2,6 +2,9 @@
   "name": "Circle of Games",
   "description": "Circle of Games (COG) is a social Web3 gaming platform where players compete, play, and earn through fun, skill-based games—built to scale global adoption with real gameplay and real rewards.",
   "categories": ["Gaming::Games"],
+  "addresses": {
+    "Circle of Games Token (COG)": "0xb8c41c147a9e0b674928d7088cb9474e6ec2c495"
+  },
   "links": {
     "project": "https://www.cogtoken.network/",
     "twitter": "https://x.com/Circle_of_Games",
