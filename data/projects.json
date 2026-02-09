@@ -1,0 +1,18 @@
+{
+  "name": "Hot Spring - The Cozy World",
+  "description": "Enabling emotional IP gaming creation through simulation, creativity, and AI.",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "HotSpring (Action): 0xb0B377bB5a6f87dB121371654c23359E6b36D22A": "HotSpring (Quest): 0x29FfD44130fCF917950cCA2b29084095dA10dB95",
+    "CozyWorldStaker: 0x58198713d9dAD034433BB9c22E5e9940C28fD39C": "CozyWorldTokenGateway: 0xCD6707C76a4d2779bc174A524C0E055F3AA6d1e3"
+  },
+  "links": {
+    "project": "https://hotspring.games/",
+    "twitter": "https://x.com/hotspring_HQ",
+    "docs": "https://docs.hotspring.games/",
+    "communityDiscord": "https://discord.com/invite/cozy-world",
+    "email": "brian@nikalabs.org"
+  }
+}
