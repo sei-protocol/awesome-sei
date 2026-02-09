@@ -1,0 +1,19 @@
+{
+  "name": "Archer Hunter",
+  "description": "Archer Hunter - Tokenizing IP-based games on Sei Network with 3M installs.",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "ArcherHunter(Action): 0x3612CE459F91e0288b451C3D09029d3E92f50E97": "ArcherHunter (Quest): 0x7231876F16a5e935bDAC93FB0c1C65B17C5a69b4",
+    "GigaArchery (NFT): 0x13c1305bb44cccEAA46efaD66d5d5d8dF1C29107": "FASTER (Token): 0xa193D87B0D5E23ef45379F90066891CbD6013226"
+  },
+  "links": {
+    "project": "https://archerhunter.io/",
+    "twitter": "https://x.com/archery_HQ",
+    "docs": "https://docs.archerhunter.io/",
+    "communityDiscord": "https://discord.com/invite/qK2DZHepTn",
+    "email": "brian@nikalabs.org",
+    "coingecko": "https://www.coingecko.com/en/coins/archer-hunter"
+  }
+}
