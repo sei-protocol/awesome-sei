@@ -1,0 +1,16 @@
+{
+  "name": "Kawaii Puzzle",
+  "description": "A dreamy casual puzzle x home decorating sim game - soft, sweet on Sei Network with 7M Installs.",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "KawaiiPuzzle (Action): 0x43FB75bf3Fe277F504aaCc0721AB261c0D60B0dB": "KawaiiPuzzle (Quest): 0xF54e445bFb5a93eE4D24a4328b73C78084918A3E"
+  },
+  "links": {
+    "project": "https://kawaiipuzzle.games/",
+    "twitter": "https://x.com/kawaiipuzzle_HQ",
+    "communityDiscord": "https://discord.com/invite/whCjEXk9Ex",
+    "email": "brian@nikalabs.org"
+  }
+}
