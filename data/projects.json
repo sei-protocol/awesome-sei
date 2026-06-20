@@ -1,0 +1,19 @@
+{
+  "name": "Sakura Nexus",
+  "description": "Sakura Nexus is a Web3 gaming platform that reimagines Japan’s timeless classics — Poker, Mahjong, Slot Machines, and Domino — on the Sei blockchain.",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "Max Supply: 1": "000",
+    "Minimum Delay: 21": "600 seconds (6 hours)"
+  },
+  "links": {
+    "project": "https://www.sakura-nexus.xyz/",
+    "twitter": "https://x.com/PlaySakuraNexus",
+    "docs": "https://sakura-nexus.gitbook.io/sakura-whitepaper",
+    "communityDiscord": "https://discord.gg/DPaA48p6hZ",
+    "email": "contact@aionweb3.ai",
+    "telegram": "@aowcontact"
+  }
+}
