@@ -94,12 +94,12 @@ Use these category formats in your JSON file:
 
 ### Example Project File
 
-**File: `data/dragonswap.json`**
+**File: `data/saphyre.json`**
 
 ```json
 {
-  "name": "Dragonswap",
-  "description": "DragonSwap is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics.",
+  "name": "Saphyre",
+  "description": "Saphyre is the central DeFi hub native to Sei Network, leveraging the power of a parallelized EVM. Swap, farm, provide liquidity, bridge assets, and access in-depth analytics.",
   "categories": ["DeFi::Protocols"],
   "addresses": {
     "SwapRouter02": "0x11da6463d6cb5a03411dbf5ab6f6bc3997ac7428",
@@ -110,10 +110,10 @@ Use these category formats in your JSON file:
     "DragonswapRouter": "0xa4cf2f53d1195addde9e4d3aca54f556895712f2"
   },
   "links": {
-    "project": "https://dragonswap.app",
-    "twitter": "https://x.com/dragonswap_dex",
+    "project": "https://saphyre.xyz",
+    "twitter": "https://x.com/Saphyre_xyz",
     "github": "https://github.com/dragonswap-app",
-    "docs": "https://docs.dragonswap.app/dragonswap"
+    "docs": "https://docs.saphyre.xyz/docs"
   }
 }
 ```
