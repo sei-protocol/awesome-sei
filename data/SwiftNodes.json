@@ -1,0 +1,9 @@
+{
+  "name": "SwiftNodes",
+  "description": "SwiftNodes provides flat-rate RPC endpoints for Sei EVM over HTTP and WebSocket, with one API key covering 75+ networks, a free tier with no KYC, and no compute-unit metering.",
+  "categories": ["Infrastructure::Tools"],
+  "links": {
+    "project": "https://swiftnodes.io/sei-rpc",
+    "twitter": "https://x.com/swiftnodesio"
+  }
+}
