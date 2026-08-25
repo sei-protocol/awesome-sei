@@ -1,0 +1,16 @@
+{
+  "name": "JUMP",
+  "description": "JUMP is a unified platform for the Sei ecosystem, opening the door to Sei through cross-chain bridging, a self-custody Telegram trading bot, a web trading terminal for Monaco markets, and on-chain analytics.",
+  "categories": ["DeFi::Derivatives", "Infrastructure::Bridges", "Infrastructure::Analytics"],
+  "addresses": {
+    "JUMP: Trading Router": "0x24745Ce8DD911ad8e10737F3D095A3b0345689B4"
+  },
+  "links": {
+    "project": "https://jump.je",
+    "twitter": "https://x.com/JumpDotJE",
+    "docs": "https://docs.jump.je",
+    "telegram": "https://t.me/JUMP_TradeBot",
+    "communityTelegram": "https://t.me/JumpJeChat",
+    "email": "hq@jump.je"
+  }
+}
