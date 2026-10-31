@@ -1,0 +1,14 @@
+{
+  "name": "Oath Wallet",
+  "description": "A native wallet for iPhone and iPad with Sei EVM mainnet configuration and publicly available source code.",
+  "categories": [
+    "Wallets::Mobile"
+  ],
+  "links": {
+    "project": "https://oathwallet.org",
+    "twitter": "https://x.com/OathWallet",
+    "github": "https://github.com/devdasx/oath-wallet",
+    "docs": "https://help.oathwallet.org",
+    "email": "care@oathwallet.org"
+  }
+}
