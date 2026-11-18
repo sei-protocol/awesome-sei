@@ -1,0 +1,10 @@
+{
+  "name": "AllSwap",
+  "description": "AllSwap is a non-custodial cross-chain crypto swap and bridge aggregator supporting 46 chains and 210+ assets with transparent quotes and no KYC.",
+  "categories": ["DeFi::Aggregators", "Infrastructure::Bridges"],
+  "links": {
+    "project": "https://allswap.io/",
+    "docs": "https://allswap.io/docs",
+    "telegram": "https://t.me/allswapservice"
+  }
+}
